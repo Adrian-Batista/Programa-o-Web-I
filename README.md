@@ -1,2 +1,2 @@
-# Programa-o-Web-I
+# Programacao-Web-I
 Repositório criado com intuito de exercitar os conhecimentos em HTML
